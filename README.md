@@ -73,6 +73,13 @@
 
 ---
 
+## 📊 GitHub
+
+[![Followers](https://img.shields.io/github/followers/ahmedbadwy77?style=flat-square&label=Followers&color=0969da)](https://github.com/ahmedbadwy77?tab=followers)
+[![Last commit](https://img.shields.io/github/last-commit/ahmedbadwy77/ahmedbadwy77?style=flat-square&label=Last%20commit&color=0969da)](https://github.com/ahmedbadwy77/ahmedbadwy77/commits/main)
+
+---
+
 ## 📫 Contact
 
 - **LinkedIn** — https://www.linkedin.com/in/ahmed-badwy-4b83b3344
