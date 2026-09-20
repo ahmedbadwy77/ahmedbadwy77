@@ -73,13 +73,6 @@
 
 ---
 
-## 📊 GitHub
-
-<!-- Optional card: served by a public third-party instance, so it can be rate-limited or slow to render. Delete the line below if you want a page that never depends on an external service. -->
-![Ahmed Badwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbadwy77&show_icons=true&hide_title=true&hide_rank=true)
-
----
-
 ## 📫 Contact
 
 - **LinkedIn** — https://www.linkedin.com/in/ahmed-badwy-4b83b3344
