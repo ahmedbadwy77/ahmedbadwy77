@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td valign="bottom" width="54%">
+<td valign="top" width="54%">
 
 <p>I'm an Electronics &amp; Communications Engineering student at Cairo University, focused on digital IC design.</p>
 
@@ -26,9 +26,9 @@
 <p><b>Open to:</b> Digital IC · RTL design · Design Verification internships.</p>
 
 </td>
-<td valign="bottom" width="46%" align="center">
+<td valign="top" width="46%" align="center">
 
-<img src="volibear.gif" alt="Volibear — the Relentless Storm" width="100%">
+<img src="volibear.gif" alt="Volibear — the Relentless Storm" width="240">
 
 </td>
 </tr>
