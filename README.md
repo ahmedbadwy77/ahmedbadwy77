@@ -17,18 +17,16 @@
 
 <table>
 <tr>
-<td valign="top" width="54%">
+<td valign="bottom" width="54%">
 
 <p>I'm an Electronics &amp; Communications Engineering student at Cairo University, focused on digital IC design.</p>
 
-<p>What draws me to this field is that hardware has to be right — not approximately right. I care about the whole discipline around that: writing clean RTL, verifying it instead of assuming it, and following it through synthesis, timing, and implementation until the result can be trusted.</p>
-
-<p>I'm currently deepening that practice through structured digital IC design training, and I'm looking for a place where rigour matters as much as it does to me.</p>
+<p>Hardware has to be right — not approximately right. I like the craft of it: clean RTL, verified rather than assumed, then carried through synthesis and timing.</p>
 
 <p><b>Open to:</b> Digital IC · RTL design · Design Verification internships.</p>
 
 </td>
-<td valign="top" width="46%" align="center">
+<td valign="bottom" width="46%" align="center">
 
 <img src="volibear.gif" alt="Volibear — the Relentless Storm" width="100%">
 
