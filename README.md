@@ -23,12 +23,14 @@
 
 <p>Hardware has to be right — not approximately right. I like the craft of it: clean RTL, verified rather than assumed, then carried through synthesis and timing.</p>
 
+<p>I'm deepening that practice through structured digital IC design training, and looking for a team where rigour matters as much as it does to me.</p>
+
 <p><b>Open to:</b> Digital IC · RTL design · Design Verification internships.</p>
 
 </td>
 <td valign="top" width="46%" align="center">
 
-<img src="volibear.gif" alt="Volibear — the Relentless Storm" width="240">
+<img src="volibear.gif" alt="Volibear — the Relentless Storm" width="100%">
 
 </td>
 </tr>
