@@ -30,7 +30,7 @@
 </td>
 <td valign="top" width="46%" align="center">
 
-<img src="assets/volibear.gif" alt="Volibear — the Relentless Storm" width="100%">
+<img src="volibear.gif" alt="Volibear — the Relentless Storm" width="100%">
 
 </td>
 </tr>
